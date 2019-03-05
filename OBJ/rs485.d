@@ -1,0 +1,12 @@
+..\obj\rs485.o: ..\HARDWARE\RS485\rs485.c
+..\obj\rs485.o: ..\SYSTEM\sys\sys.h
+..\obj\rs485.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\rs485.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\rs485.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\rs485.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\rs485.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\rs485.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\rs485.o: ..\HARDWARE\RS485\rs485.h
+..\obj\rs485.o: ..\SYSTEM\delay\delay.h
+..\obj\rs485.o: ..\HARDWARE\imu\jy901.h

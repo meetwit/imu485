@@ -1,0 +1,14 @@
+..\obj\jy901.o: ..\HARDWARE\imu\JY901.c
+..\obj\jy901.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\jy901.o: ..\HARDWARE\imu\JY901.h
+..\obj\jy901.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\jy901.o: ..\HARDWARE\RS485\rs485.h
+..\obj\jy901.o: ..\SYSTEM\sys\sys.h
+..\obj\jy901.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\jy901.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\jy901.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\jy901.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\jy901.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\jy901.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\jy901.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\jy901.o: ..\HARDWARE\LED\led.h
