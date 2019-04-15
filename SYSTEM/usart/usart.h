@@ -26,6 +26,10 @@ extern u8  USART_RX_BUF[USART_REC_LEN]; //½ÓÊÕ»º³å,×î´óUSART_REC_LEN¸ö×Ö½Ú.Ä©×Ö½
 extern u16 USART_RX_STA;         		//½ÓÊÕ×´Ì¬±ê¼Ç	
 
 void uart_init(u32 pclk2,u32 bound); 
+void PcTx_Byte(u8 Tx_data);
+
+void uart3_init(u32 pclk2,u32 bound);
+void PcTx_Byte3(u8 Tx_data3);
 #endif	   
 
 

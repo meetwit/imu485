@@ -1,0 +1,12 @@
+..\obj\ano.o: ..\HARDWARE\ANO\ANO.c
+..\obj\ano.o: ..\HARDWARE\ANO\ANO.h
+..\obj\ano.o: ..\SYSTEM\usart\usart.h
+..\obj\ano.o: ..\SYSTEM\sys\sys.h
+..\obj\ano.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\ano.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\ano.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ano.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\ano.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\ano.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\ano.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\ano.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

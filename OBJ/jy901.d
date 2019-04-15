@@ -12,3 +12,5 @@
 ..\obj\jy901.o: ..\SYSTEM\sys\core_cm4_simd.h
 ..\obj\jy901.o: ..\SYSTEM\sys\system_stm32f4xx.h
 ..\obj\jy901.o: ..\HARDWARE\LED\led.h
+..\obj\jy901.o: ..\HARDWARE\ANO\ANO.h
+..\obj\jy901.o: ..\SYSTEM\usart\usart.h

@@ -9,6 +9,7 @@
 "..\obj\key.o"
 "..\obj\rs485.o"
 "..\obj\jy901.o"
+"..\obj\ano.o"
 "..\obj\usmart.o"
 "..\obj\usmart_config.o"
 "..\obj\usmart_str.o"

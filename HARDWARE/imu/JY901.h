@@ -1,7 +1,7 @@
 #ifndef __AHRSREG_H
 #define __AHRSREG_H
 
-#define imuNum 3
+#define imuNum 6
 #define imuRead 0x03
 #define imuWrite 0x06
 
